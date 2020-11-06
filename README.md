@@ -1,2 +1,2 @@
-# webdesignforeveryone.gub
+# wenqitangwebdesign.github.io
 Web Design for Everyone
